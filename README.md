@@ -1,5 +1,5 @@
 ### Hi there 👋
-뽀삐<br>초대하기: https://discordmusic.xyz/invite
+##뽀삐<br>초대하기: https://discordmusic.xyz/invite
 <div align = "center">
 <p align="center">
     <a href="https://github.com/lia1324/">
