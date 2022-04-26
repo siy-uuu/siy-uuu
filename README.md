@@ -13,8 +13,9 @@
 --------------------
 
 ## 뽀삐 
+    
 사이트: https://discordmusic.xyz/ <br>
-초대하기: : https://discordmusic.xyz/invite 
+초대하기: https://discordmusic.xyz/invite <br>
 ![](https://koreanbots.dev/api/widget/bots/status/896270994740764684.svg?icon=true&scale=1) 
 ![](https://koreanbots.dev/api/widget/bots/servers/896270994740764684.svg?icon=true&scale=1) 
 ![](https://koreanbots.dev/api/widget/bots/votes/896270994740764684.svg?icon=true&scale=1)
