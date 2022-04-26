@@ -13,7 +13,7 @@
 --------------------
 # 진행 중인 프로젝트
 
-### 뽀삐 
+## 뽀삐 
     
 사이트: https://discordmusic.xyz/ <br>
 초대하기: https://discordmusic.xyz/invite <br>
