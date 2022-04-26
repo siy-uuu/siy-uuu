@@ -7,7 +7,7 @@
 ![](https://koreanbots.dev/api/widget/bots/servers/896270994740764684.svg?icon=true&scale=1) 
 ![](https://koreanbots.dev/api/widget/bots/votes/896270994740764684.svg?icon=true&scale=1)
     <a href="https://github.com/lia1324/">
-        <img src="https://github-readme-stats.vercel.app/api?username=lia1324&show_icons=true&theme=dark" /
+        <img src="https://github-readme-stats.vercel.app/api?username=lia1324&show_icons=true&theme=dark"
     </a>
     
 ![](https://komarev.com/ghpvc/?username=lia1324&style=flat-square)
