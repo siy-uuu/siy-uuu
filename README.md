@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align = "center">
     ##뽀삐
-    <h>![초대하기](https://discord.com/oauth2/authorize?client_id=896270994740764684&permissions=414509812800&scope=bot%20applications.commands&response_type=code&redirect_uri=https://discordmusic.xyz/thanks/)</h>
+    [초대하기](https://discord.com/oauth2/authorize?client_id=896270994740764684&permissions=414509812800&scope=bot%20applications.commands&response_type=code&redirect_uri=https://discordmusic.xyz/thanks/)
 <p align="center">
     <a href="https://github.com/lia1324/">
         <img src="https://github-readme-stats.vercel.app/api?username=lia1324&show_icons=true&theme=dark" /
