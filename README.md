@@ -11,10 +11,10 @@
 ![vscode](https://dev.discordprofiles.me/badge/vscode/353382954577297408?style=flat-square)
 
 --------------------
-## 진행 중인 프로젝트
+# 진행 중인 프로젝트
 --------------------
 
-뽀삐 <br>
+## 뽀삐 <br>
 사이트: https://discordmusic.xyz/ <br>
 초대하기: https://discordmusic.xyz/invite <br>
 ![](https://koreanbots.dev/api/widget/bots/status/896270994740764684.svg?icon=true&scale=1) 
