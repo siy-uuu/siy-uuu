@@ -1,6 +1,6 @@
 ### Hi there 👋
+뽀삐<br>초대하기: https://discordmusic.xyz/invite
 <div align = "center">
-    뽀삐<br>초대하기: https://discordmusic.xyz/invite
 <p align="center">
     <a href="https://github.com/lia1324/">
         <img src="https://github-readme-stats.vercel.app/api?username=lia1324&show_icons=true&theme=dark" /
