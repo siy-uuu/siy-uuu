@@ -1,8 +1,8 @@
 ### Hi there 👋
+<g>아하</g>
 <div align = "center">
     
 <p align="center">
-    <g>아하</g>
     <a href="https://github.com/lia1324/">
         <img src="https://github-readme-stats.vercel.app/api?username=lia1324&show_icons=true&theme=dark" /
     </a>
