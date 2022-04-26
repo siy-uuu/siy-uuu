@@ -11,7 +11,7 @@
 ![vscode](https://dev.discordprofiles.me/badge/vscode/353382954577297408?style=flat-square)
 
 --------------------
-# 진행 중인 프로젝트
+## 진행 중인 프로젝트
 --------------------
 
 ## 뽀삐 <br>
