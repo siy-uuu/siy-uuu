@@ -1,4 +1,5 @@
 ### Hi there 👋
+<html>
 <p align="left">
     <a href="https://github.com/lia1324/">
         <img src="https://github-readme-stats.vercel.app/api?username=lia1324&show_icons=true&theme=dark" /
@@ -13,9 +14,9 @@
 --------------------
 ## 진행 중인 프로젝트
 
-## 뽀삐 <br>
-사이트: https://discordmusic.xyz/ <br>
+## 뽀삐<br>사이트: https://discordmusic.xyz/ <br>
 초대하기: https://discordmusic.xyz/invite <br>
 ![](https://koreanbots.dev/api/widget/bots/status/896270994740764684.svg?icon=true&scale=1) 
 ![](https://koreanbots.dev/api/widget/bots/servers/896270994740764684.svg?icon=true&scale=1) 
 ![](https://koreanbots.dev/api/widget/bots/votes/896270994740764684.svg?icon=true&scale=1)
+</html>
