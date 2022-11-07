@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="left">
     <a href="https://github.com/lia1324/">
-        <img src="https://github-readme-stats.vercel.app/api?username=lia1324&show_icons=true&theme=dark" /
+        <img src="https://github-readme-stats.vercel.app/api?username=NEXT1122&show_icons=true&theme=dark" /
     </a>
 </p>
 
