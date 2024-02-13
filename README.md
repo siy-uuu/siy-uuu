@@ -14,6 +14,6 @@
 ![votes](https://koreanbots.dev/api/widget/bots/votes/896270994740764684.svg?icon=true&scale=1)
 
 장난삼아 시작된 봇 프로젝트, 현재 지금은 약 8만 서버를 넘어섰어요.
-* [웹사이트](https://poppymusic.xyz/)
+* <span style="color:purple">[웹사이트](https://poppymusic.xyz/)</span>
 * [초대하기](https://poppymusic.xyz/invite)
 * [서포트서버](https://poppymusic.xyz/support)
