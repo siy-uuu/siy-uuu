@@ -2,10 +2,11 @@
 
 I'm currently interested in developing a backend.
 
-## 🪄 My skills
+## 🪄 My skills & Tools
 
 - Typescript, Javascript, Node.JS, Python
-
+- Version Control: GitHub, Git
+  
 ## 📫 Connect with me
 
 - Discord: [@siy_uuu](https://discord.com/users/353382954577297408)
