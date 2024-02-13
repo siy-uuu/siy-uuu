@@ -13,7 +13,8 @@ I'm currently interested in developing a backend.
 - Email: supprot@poppymusic.xyz
 
 ## 📃 Project
-- ### 뽀삐
+
+### 뽀삐
 
 장난삼아 시작된 봇 프로젝트, 현재 지금은 약 8만 서버를 넘어섰어요.
 
