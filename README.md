@@ -14,7 +14,7 @@ I'm currently interested in developing a backend.
 
 ## 📚 Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=siy-uuu&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=siy-uuu&show_icons=true&theme=react&hide_border=true&count_private=true)
 
 ## 📃 My Projects
 
