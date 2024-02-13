@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 ## My skills
-- Typescript
-- Javascript
-- Node.JS
-- Python
+- Typescript, Javascript, Node.JS, Python
 
 ## Project
 ### 뽀삐
