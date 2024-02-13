@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+I'm currently interested in developing a backend.
+
 ## My skills
+
 - Typescript, Javascript, Node.JS, Python
 
 ## Project
