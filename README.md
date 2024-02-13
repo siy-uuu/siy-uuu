@@ -8,12 +8,12 @@
 --------------------
 ## 프로젝트
 ### 뽀삐
-{: .notice
+
 ![status](https://koreanbots.dev/api/widget/bots/status/896270994740764684.svg?icon=true&scale=1) 
 ![servers](https://koreanbots.dev/api/widget/bots/servers/896270994740764684.svg?icon=true&scale=1) 
 ![votes](https://koreanbots.dev/api/widget/bots/votes/896270994740764684.svg?icon=true&scale=1)
-}
+
 장난삼아 시작된 봇 프로젝트, 현재 지금은 약 8만 서버를 넘어섰어요.
-* [웹사이트](https://poppymusic.xyz/)
-* [초대하기](https://poppymusic.xyz/invite)
-* [서포트서버](https://poppymusic.xyz/support)
+* [웹사이트](https://poppymusic.xyz/){: target="_blank"}
+* [초대하기](https://poppymusic.xyz/invite){: target="_blank"}
+* [서포트서버](https://poppymusic.xyz/support){: target="_blank"}
