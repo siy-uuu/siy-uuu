@@ -14,8 +14,8 @@ I'm currently interested in developing a backend.
 
 ## 📚 Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=siy-uuu&show_icons=true&theme=calm&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siy-uuu&hide_border=true&langs_count=10&theme=calm&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=siy-uuu&show_icons=true&theme=ayu-mirage&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siy-uuu&hide_border=true&langs_count=10&theme=ayu-mirage&layout=compact)
 
 ## 📃 My Projects
 
