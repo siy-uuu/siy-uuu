@@ -2,15 +2,24 @@
 
 I'm currently interested in developing a backend.
 
+
 ## 🪄 My skills & Tools
 
 - Typescript, Javascript, Node.JS, Python
 - Version Control: GitHub, Git
+
   
 ## 📫 Connect with me
 
 - Discord: [@siy_uuu](https://discord.com/users/353382954577297408)
 - Email: supprot@poppymusic.xyz
+
+
+## 📚 Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=siy-uuu&show_icons=true&theme=ayu-mirage&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siy-uuu&hide_border=true&langs_count=10&theme=ayu-mirage&layout=compact)
+
 
 ## 📃 My Projects
 
@@ -21,9 +30,3 @@ I'm currently interested in developing a backend.
 ![status](https://koreanbots.dev/api/widget/bots/status/896270994740764684.svg?icon=true&scale=1) 
 ![servers](https://koreanbots.dev/api/widget/bots/servers/896270994740764684.svg?icon=true&scale=1) 
 ![votes](https://koreanbots.dev/api/widget/bots/votes/896270994740764684.svg?icon=true&scale=1)
-
-
-## 📚 Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=siy-uuu&show_icons=true&theme=ayu-mirage&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siy-uuu&hide_border=true&langs_count=10&theme=ayu-mirage&layout=compact)
