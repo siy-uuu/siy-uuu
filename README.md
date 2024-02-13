@@ -11,6 +11,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://nodejs.org/static/images/favicons/favicon.png" width="16" height="16" align="center"> Node.JS
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>
   <img src="https://www.python.org/favicon.ico" width="16" height="16" align="center"> Python
   <br>
 </p>
