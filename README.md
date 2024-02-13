@@ -8,7 +8,9 @@
 --------------------
 ## 진행 중인 프로젝트
 ### 뽀삐
-[invite](https://poppymusic.xyz/invite)
+
+https://poppymusic.xyz/invite<>
+
 ![](https://koreanbots.dev/api/widget/bots/status/896270994740764684.svg?icon=true&scale=1) 
 ![](https://koreanbots.dev/api/widget/bots/servers/896270994740764684.svg?icon=true&scale=1) 
 ![](https://koreanbots.dev/api/widget/bots/votes/896270994740764684.svg?icon=true&scale=1)
