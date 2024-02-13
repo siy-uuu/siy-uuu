@@ -8,9 +8,9 @@
 --------------------
 ## 프로젝트
 ### 뽀삐
-![sd](https://koreanbots.dev/api/widget/bots/status/896270994740764684.svg?icon=true&scale=1) 
-![](https://koreanbots.dev/api/widget/bots/servers/896270994740764684.svg?icon=true&scale=1) 
-![](https://koreanbots.dev/api/widget/bots/votes/896270994740764684.svg?icon=true&scale=1)
+![status](https://koreanbots.dev/api/widget/bots/status/896270994740764684.svg?icon=true&scale=1) 
+![servers](https://koreanbots.dev/api/widget/bots/servers/896270994740764684.svg?icon=true&scale=1) 
+![votes](https://koreanbots.dev/api/widget/bots/votes/896270994740764684.svg?icon=true&scale=1)
 
 짱난삼아 시작된 봇 프로젝트, 지금은 현재 약 8만 서버를 넘어섰어요.
 * [초대하기](https://poppymusic.xyz/invite)
