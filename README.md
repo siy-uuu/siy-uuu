@@ -8,6 +8,7 @@
 --------------------
 ## 프로젝트
 ### 뽀삐
+{: .notice}
 ![status](https://koreanbots.dev/api/widget/bots/status/896270994740764684.svg?icon=true&scale=1) 
 ![servers](https://koreanbots.dev/api/widget/bots/servers/896270994740764684.svg?icon=true&scale=1) 
 ![votes](https://koreanbots.dev/api/widget/bots/votes/896270994740764684.svg?icon=true&scale=1)
