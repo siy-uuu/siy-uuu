@@ -1,12 +1,21 @@
 ### Hi there 👋
-<p align="left">
-    <a href="https://github.com/lia1324/">
-        <img src="https://github-readme-stats.vercel.app/api?username=NEXT1122&show_icons=true&theme=dark" /
-    </a>
+
+## My skills
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.typescriptlang.org/favicon.ico" width="16" height="16" align="center"> Typescript
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="16" height="16" align="center"> Javascript
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://nodejs.org/static/images/favicons/favicon.png" width="16" height="16" align="center"> Node.JS
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.python.org/favicon.ico" width="16" height="16" align="center"> Python
+  <br>
 </p>
 
---------------------
-## 프로젝트
+## Project
 ### 뽀삐
 
 장난삼아 시작된 봇 프로젝트, 현재 지금은 약 8만 서버를 넘어섰어요.
