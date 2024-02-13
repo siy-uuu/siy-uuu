@@ -1,16 +1,10 @@
 ### Hi there 👋
 
 ## My skills
-
-<p>
- <img src="https://www.typescriptlang.org/favicon.ico" width="16" height="16" align="center">- Typescript
-  <br>
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="16" height="16" align="center"> Javascript
-  <br>
-* <img src="https://nodejs.org/static/images/favicons/favicon.png" width="16" height="16" align="center">- Node.JS
-  <br>
-* <img src="https://www.python.org/favicon.ico" width="16" height="16" align="center">- Python
-</p>
+- Typescript
+- Javascript
+- Node.JS
+- Python
 
 ## Project
 ### 뽀삐
