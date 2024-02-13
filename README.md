@@ -12,7 +12,7 @@
 ![servers](https://koreanbots.dev/api/widget/bots/servers/896270994740764684.svg?icon=true&scale=1) 
 ![votes](https://koreanbots.dev/api/widget/bots/votes/896270994740764684.svg?icon=true&scale=1)
 
-짱난삼아 시작된 봇 프로젝트, 지금은 현재 약 8만 서버를 넘어섰어요.
+장난삼아 시작된 봇 프로젝트, 현재 지금은 약 8만 서버를 넘어섰어요.
 * [웹사이트](https://poppymusic.xyz/)
 * [초대하기](https://poppymusic.xyz/invite)
-* [서포트서](https://poppymusic.xyz/support)
+* [서포트서버](https://poppymusic.xyz/support)
