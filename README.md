@@ -5,8 +5,9 @@ I'm currently interested in developing a backend.
 
 ## 🪄 My skills & Tools
 
-- Typescript, Javascript, Node.JS, Python
-- Version Control: GitHub, Git
+- Typescript, Javascript, Python
+- Node.js, Next.js, React, ..
+- GitHub, Git
 
   
 ## 📫 Connect with me
