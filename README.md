@@ -13,7 +13,7 @@ I'm currently interested in developing a backend.
 ## 📫 Connect with me
 
 - Discord: [@siy_uuu](https://discord.com/users/353382954577297408)
-- Email: supprot@poppymusic.xyz
+- Email: support@poppymusic.xyz
 
 
 ## 📚 Github Stats
