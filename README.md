@@ -5,7 +5,7 @@ I'm currently interested in developing a backend.
 
 ## 🪄 My skills & Tools
 
-- Typescript, Javascript, Python, Css, Ht**
+- TypeScript, JavaScript, Python, CSS, HTML
 - Node.js, Next.js, React, Electron, More
 - GitHub, Git
 
