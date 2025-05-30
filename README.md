@@ -8,7 +8,7 @@ I'm currently interested in developing a backend.
 - TypeScript, JavaScript, Python
 - Next.js, React
 - Node.js, Fastify, Express, Electron
-- MongoDB, MySQL, MariaDB, postgreSQL
+- MongoDB, MySQL, MariaDB, PostgreSQL
 - GitHub, Git
 
   
