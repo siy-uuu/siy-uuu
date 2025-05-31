@@ -5,12 +5,24 @@ I'm currently interested in developing a backend.
 
 ## 🪄 My skills & Tools
 
+### 👩‍💻 Languages & Frameworks
 - JavaScript, TypeScript, Python
+
+### 🧩 Frontend
 - React, Next.js
+
+### 🛠 Backend
 - Node.js, Fastify, Express, Electron
+
+### 🗄 Database
 - MySQL, MariaDB, PostgreSQL, MongoDB
+  
+### 🔧 DevOps / Infra
+- Nginx, Prometheus, Grafana
 - GitHub, Git
 
+### 🧪 Tools & Others
+- VSCode, Figma, Postman..
   
 ## 📫 Connect with me
 
