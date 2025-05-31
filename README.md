@@ -18,11 +18,11 @@ I'm currently interested in developing a backend.
 - MySQL, MariaDB, PostgreSQL, MongoDB
   
 ### 🔧 DevOps / Infra
-- Nginx, Prometheus, Grafana
+- Nginx, Prometheus, Grafana...
 - GitHub, Git
 
 ### 🧪 Tools & Others
-- VSCode, Figma, Postman..
+- VSCode, Figma, Postman...
   
 ## 📫 Connect with me
 
