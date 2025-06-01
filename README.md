@@ -20,9 +20,6 @@ I'm currently interested in developing a backend.
 ### 🔧 DevOps / Infra
 - Nginx, Prometheus, Grafana...
 - GitHub, Git
-
-### 🧪 Tools & Others
-- VSCode, Figma, Postman...
   
 ## 📫 Connect with me
 
