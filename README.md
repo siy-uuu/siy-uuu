@@ -45,7 +45,7 @@
 
 ## Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=siy-uuu&show_icons=true&count_private=true&show=reviews,prs_merged&theme=github_dark_dimmed)
+![](https://github-readme-stats-eta-ivory-33.vercel.app/api?username=siy-uuu&show_icons=true&count_private=true&show=reviews,prs_merged&theme=github_dark_dimmed)
 
 
 ## My Projects
